@@ -24,6 +24,7 @@ const Form = ( {setCategory} ) => {
         e.preventDefault();
 
         setCategory(category);
+        console.log(setCategory(category))
     }
 
     return ( 

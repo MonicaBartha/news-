@@ -1,9 +1,11 @@
 ## News
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+News App created with React.js, custom hook, Modular CSS, Materialize, API call using fetch method.
 
-### Available Scripts
+### API
 
 API from https://newsapi.org/
 
 ### Deploy
+
+https://react-app-news.netlify.app/

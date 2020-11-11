@@ -8,4 +8,4 @@ API from https://newsapi.org/
 
 ### Deploy
 
-https://react-app-news.netlify.app/
+- this API is not free for production, so the deploy is not shown
